@@ -1,0 +1,192 @@
+[
+    {
+        "id": "1",
+        "name": "Adamantite Forge",
+        "alternate_name": "Titanium Forge"
+    },
+    {
+        "id": "2",
+        "name": "Ancient Manipulator",
+        "alternate_name": ""
+    },
+    {
+        "id": "3",
+        "name": "Autohammer",
+        "alternate_name": ""
+    },
+    {
+        "id": "4",
+        "name": "Blend-O-Matic",
+        "alternate_name": ""
+    },
+    {
+        "id": "5",
+        "name": "Bone Welder",
+        "alternate_name": ""
+    },
+    {
+        "id": "6",
+        "name": "Bookcase",
+        "alternate_name": ""
+    },
+    {
+        "id": "7",
+        "name": "Hand",
+        "alternate_name": ""
+    },
+    {
+        "id": "8",
+        "name": "Campfire",
+        "alternate_name": ""
+    },
+    {
+        "id": "9",
+        "name": "Cooking Pot",
+        "alternate_name": ""
+    },
+    {
+        "id": "10",
+        "name": "Crystal Ball",
+        "alternate_name": ""
+    },
+    {
+        "id": "11",
+        "name": "Demon Altar",
+        "alternate_name": ""
+    },
+    {
+        "id": "12",
+        "name": "Dye Vat",
+        "alternate_name": ""
+    },
+    {
+        "id": "13",
+        "name": "Flesh Cloning Vat",
+        "alternate_name": ""
+    },
+    {
+        "id": "14",
+        "name": "Furnace",
+        "alternate_name": ""
+    },
+    {
+        "id": "15",
+        "name": "Glass Kiln",
+        "alternate_name": ""
+    },
+    {
+        "id": "16",
+        "name": "Heavy Work Bench",
+        "alternate_name": ""
+    },
+    {
+        "id": "17",
+        "name": "Hellforge",
+        "alternate_name": ""
+    },
+    {
+        "id": "18",
+        "name": "Honey",
+        "alternate_name": ""
+    },
+    {
+        "id": "19",
+        "name": "Honey Dispenser",
+        "alternate_name": ""
+    },
+    {
+        "id": "20",
+        "name": "Ice Machine",
+        "alternate_name": ""
+    },
+    {
+        "id": "21",
+        "name": "Imbuing Station",
+        "alternate_name": ""
+    },
+    {
+        "id": "22",
+        "name": "Iron Anvil",
+        "alternate_name": "Lead Anvil"
+    },
+    {
+        "id": "23",
+        "name": "Keg",
+        "alternate_name": ""
+    },
+    {
+        "id": "24",
+        "name": "Lihzahrd Furnace",
+        "alternate_name": ""
+    },
+    {
+        "id": "25",
+        "name": "Living Loom",
+        "alternate_name": ""
+    },
+    {
+        "id": "26",
+        "name": "Loom",
+        "alternate_name": ""
+    },
+    {
+        "id": "27",
+        "name": "Meat Grinder",
+        "alternate_name": ""
+    },
+    {
+        "id": "28",
+        "name": "Music Box",
+        "alternate_name": ""
+    },
+    {
+        "id": "29",
+        "name": "Mythril Anvil",
+        "alternate_name": "Orichalcum Anvil"
+    },
+    {
+        "id": "30",
+        "name": "Sawmill",
+        "alternate_name": ""
+    },
+    {
+        "id": "31",
+        "name": "Sky Mill",
+        "alternate_name": ""
+    },
+    {
+        "id": "32",
+        "name": "Solidifier",
+        "alternate_name": ""
+    },
+    {
+        "id": "33",
+        "name": "Steampunk Boiler",
+        "alternate_name": ""
+    },
+    {
+        "id": "34",
+        "name": "Table and Bottle",
+        "alternate_name": ""
+    },
+    {
+        "id": "35",
+        "name": "Table and Chair",
+        "alternate_name": ""
+    },
+    {
+        "id": "36",
+        "name": "Tinkerer's Workshop",
+        "alternate_name": ""
+    },
+    {
+        "id": "37",
+        "name": "Work Bench",
+        "alternate_name": ""
+    },
+    {
+        "id": "38",
+        "name": "Work Bench and Chair",
+        "alternate_name": ""
+    }
+]
