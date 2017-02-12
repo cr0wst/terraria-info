@@ -188,5 +188,10 @@
         "id": "38",
         "name": "Work Bench and Chair",
         "alternate_name": ""
+    },
+    {
+        "id": "39",
+        "name": "Test Crafting Station",
+        "alternate_name": ""
     }
 ]
