@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "seed": "309",
+        "plant": "315",
+        "event": "",
+        "moon_phase": "",
+        "min_time": "",
+        "max_time": ""
+    },
+    {
+        "id": "2",
+        "seed": "307",
+        "plant": "313",
+        "event": "",
+        "moon_phase": "",
+        "min_time": "4:30 AM",
+        "max_time": "7:30 PM"
+    },
+    {
+        "id": "3",
+        "seed": "310",
+        "plant": "316",
+        "event": "1",
+        "moon_phase": "1",
+        "min_time": "",
+        "max_time": ""
+    },
+    {
+        "id": "4",
+        "seed": "312",
+        "plant": "318",
+        "event": "",
+        "moon_phase": "",
+        "min_time": "3:45 PM",
+        "max_time": "7:30 PM"
+    },
+    {
+        "id": "5",
+        "seed": "308",
+        "plant": "314",
+        "event": "",
+        "moon_phase": "",
+        "min_time": "7:30 PM",
+        "max_time": "4:30 AM"
+    },
+    {
+        "id": "6",
+        "seed": "311",
+        "plant": "317",
+        "event": "3",
+        "moon_phase": "",
+        "min_time": "",
+        "max_time": ""
+    },
+    {
+        "id": "7",
+        "seed": "2357",
+        "plant": "2358",
+        "event": "",
+        "moon_phase": "",
+        "min_time": "",
+        "max_time": ""
+    }
+]
