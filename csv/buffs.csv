@@ -1,0 +1,206 @@
+id,name,effect,duration
+93,Ammo Box,Right clicking on a placed Ammo Box gives the player a 20% chance not to consume ammo.,10
+112,Ammo Reservation,Gives the player 20% chance to not consume ammo.,10
+16,Archery,Arrow speed and damage from bows and repeaters is increased by 20%.,4
+61,Baby Dinosaur,Pet,
+45,Baby Eater,Pet,
+154,Baby Face Monster,Pet,
+92,Baby Grinch,Pet,
+51,Baby Hornet,Pet,
+41,Baby Penguin,Pet,
+50,Baby Skeletron Head,Pet,
+64,Baby Slime,Summons a baby slime to fight for you.,
+66,Baby Snowman,Pet,
+55,Baby Truffle,Pet,
+205,Ballista Panic!,Ballista sentries fire rate doubled for 3 seconds.,
+147,Banner,Players deal +50% damage and take -25% damage from corresponding enemy.,
+193,Basilisk Mount,Mount,
+13,Battle,Enemy NPC spawn rate increases.,7
+132,Bee Mount,Mount,
+95,Beetle Endurance (15%),15% reduced damage taken for each beetle. Each hit received removes a beetle.,
+96,Beetle Endurance (30%),30% reduced damage taken for each beetle. Each hit received removes a beetle.,
+97,Beetle Endurance (45%),45% reduced damage taken for each beetle. Each hit received removes a beetle.,
+98,Beetle Might (10%),10% increased melee damage and speed for each beetle,
+99,Beetle Might (20%),20% increased melee damage and speed for each beetle,
+100,Beetle Might (30%),30% increased melee damage and speed for each beetle,
+203,Betsy's Curse,Defense reduced by 40.,
+150,Bewitched,Right clicking on a placed Bewitching Table increases number of maximum minions by +1,10
+84,Black Cat,Pet,
+80,Blackout,"Severely lowers the brightness of light, making it nearly impossible to see.",
+30,Bleeding,Prevents the player from regenerating life naturally.,
+36,Broken Armor,Causes the player's defense to go down to half of its normal defense.,
+107,Builder,Increases block and wall placement speed and range (+1 range),15
+128,Bunny Mount,Mount,
+67,Burning,"Players burn, losing life, life regeneration speed, and movement speed. Inflicted by Meteorite or Hellstone. Obsidian Skull or similar protects against it.",
+106,Calm,Reduces Enemies Aggression,5
+183,Celled,Causes affected enemies lasting damage.,
+88,Chaos State,Takes life whenever a player uses the Rod of Discord too frequently.,
+46,Chilled,Slows down the player's speed.,
+29,Clairvoyance,Right clicking on a placed Crystal Ball increases the player's magic power.,10
+191,Companion Cube,Pet,
+31,Confused,"Left and Right's effects are switched, and Up and Down's effects are switched.",
+87,Cozy Fire,Gives improved life regeneration to nearby players.,
+123,Crate,Higher chance to fish up a crate,3
+199,Creative Shock,Cannot build or break blocks,
+155,Crimson Heart,Light Pet,
+23,Cursed,Prevents the player from using anything.,
+39,Cursed Inferno,Ignites the player with cursed flames that deal damage over time. Cursed flames can not be extinguished by water.,
+85,Cursed Sapling,Pet,
+168,Cute Fishron,Mount,
+179,Damage Nebula,15% increased damage for 8 seconds,
+180,Damage Nebula,15% increased damage for 8 seconds,
+181,Damage Nebula,15% increased damage for 8 seconds,
+111,Dangersense,Highlights traps,10
+22,Darkness,Lowers the brightness of light.,
+189,Daybroken,Causes affected enemies lasting damage for up to 15 seconds.,
+160,Dazed,Move at 1/3 speed horizontally and reduced jump height.,
+161,Deadly Sphere,Summons a Deadly Sphere to fight for you,
+164,Distorted,Causes the player to float upwards and downwards randomly.,
+142,Drill,Mount,
+186,Dryad's Bane,Causes affected enemies lasting damage.,
+165,Dryad's Blessing,Increases your defense by 8,
+144,Electrified,Causes the player to take significant damage when moving and a smaller amount of damage when not moving.,
+114,Endurance,Every source of damage is reduced,4
+65,Eyeball Spring,Pet,
+27,Fairy,Light Pet,
+101,Fairy,Light Pet,
+102,Fairy,Light Pet,
+8,Featherfall,Slows the players falling speed. DOWN key lets the player fall normally. UP key lets the player fall more slowly.,5
+148,Feral Bite,Increases player damage but decreases health regeneration and applies other random debuffs.,
+121,Fishing,Fishing power increased,8
+201,Flickerwick,Light Pet,
+109,Flipper,Movement speed won't be affected by liquids,8
+44,Frostburn,Affected players or enemies lose life over time and cannot regenerate life.,
+47,Frozen,Prevents the player from moving or using anything.,
+4,Gills,Allows the player to breathe underwater.,2
+18,Gravitation,Players gravity can be reversed by pressing the UP key and DOWN to normal.,3
+146,Happy!,Movement speed increased(18%) and enemy spawns reduced,
+89,Heart Lamp,Gives improved life regeneration to nearby players.,
+105,Heartreach,Increased heart pickup range by sixteen blocks.,
+202,Hoardagron,Pet,
+48,Honey,Player's life regenerates while standing in honey and for 30 seconds after exiting it,
+125,Hornet,Summons a hornet to fight for you,
+37,Horrified,Acts as a warning to prevent the player from attempting to escape the Underworld. If you try to escape (i.e using a Magic Mirror) you are killed upon returning to your spawn point.,
+17,Hunter,Allows the player to find enemy NPCs easily.,5
+62,Ice Barrier,Grants 25% damage reduction,
+69,Ichor,Causes the player to glow yellow along with the loss of 20 defense.,
+126,Imp,Summons an imp to fight for you,
+116,Inferno,Summons a fire barrier around the player,8
+10,Invisibility,Make the player invisible.,2
+5,Ironskin,Causes the defense of the player to increase by 8.,5
+60,Leaf Crystal,Summons leaf crystals to shoot at enemies.,
+151,Life Drain,Gives improved life regeneration,
+173,Life Nebula,Increased health regeneration by 4 per second for 8 seconds,
+174,Life Nebula,Increased health regeneration by 4 per second for 8 seconds,
+175,Life Nebula,Increased health regeneration by 4 per second for 8 seconds,
+113,Lifeforce,Increased max health,5
+119,Lovestruck,Floating hearts appear around you,0.5
+152,Magic Lantern,Light Pet,
+7,Magic Power,Magic damage is increased by 20%.,2
+176,Mana Nebula,Increased mana regeneration for 8 seconds,
+177,Mana Nebula,Increased mana regeneration for 8 seconds,
+178,Mana Nebula,Increased mana regeneration for 8 seconds,
+6,Mana Regeneration,Mana regenerates quicker.,2
+94,Mana Sickness,"Magic damage is reduced by 25%, the amount of damage reduced is reduced by 5% every second.",
+34,Merfolk,"Turns the player into a merfolk when the player enters water, allowing infinite breathing and better swimming.",
+72,Midas,Causes affected enemies to drop more coins than usual on death.,
+194,Mighty Wind,Pushed by 1 pixel every ~.75 seconds,
+118,Minecart,Riding in a Minecart,
+138,Minecart,Riding in a Minecart,
+166,Minecart,Riding in a Minecart,
+167,Minecart,Riding in a Minecart,
+184,Minecart,Riding in a Minecart,
+185,Minecart,Riding in a Minecart,
+136,Mini Minotaur,Pet,
+104,Mining,Increases mining speed,5
+145,Moon Bite,Prevents the player from healing via Vampire Knives or Spectre Hood.,
+12,Night Owl,Allows to see light better.,4
+1,Obsidian Skin,Causes the player to become invulnerable to lava.,4
+163,Obstructed,"Darkens the screen almost completely, except for a small area around the player.",
+204,Oiled,Fires are more effective.,
+24,On Fire!,"Players are engulfed with flames, lose life over time, and cannot regenerate life.",
+197,Oozed,Player can barely move during the duration of the debuff.,
+43,Paladin's Shield,Absorb 25% of damage done to players on your team.  Only activates above 25% life.,
+63,Panic!,Causes the player to move more quickly after taking damage.,
+157,Peace Candle,Enemy NPC spawn rate decreases.,
+169,Penetrated,Causes affected enemies lasting damage for up to 15 seconds.,
+40,Pet Bunny,Pet,
+53,Pet Lizard,Pet,
+54,Pet Parrot,Pet,
+56,Pet Sapling,Pet,
+81,Pet Spider,Pet,
+42,Pet Turtle,Pet,
+129,Pigron Mount,Mount,
+135,Pirate,Summons pirates to fight for you,
+20,Poisoned,"Players turn green, slowly lose life over time, and cannot regenerate life.",
+21,Potion Sickness,Prevents the player from drinking healing potions and restoration potions.,
+200,Propeller Gato,Pet,
+91,Puppy,Pet,
+49,Pygmies,Summons a pygmy to fight for you,
+115,Rage,Increases critical strike chance by 10%.,4
+58,Rapid Healing,Gives improved life regeneration,
+83,Ravens,Summons a raven to fight for you,
+2,Regeneration,Player's life regeneration speed is increased.,5
+90,Rudolph,Mount,
+143,Scutlix,Mount,
+59,Shadow Dodge,"Allows the player to dodge the next incoming attack. Two clones of the player will appear, mimicking the player's movements.",
+19,Shadow Orb,Light Pet,
+153,Shadowflame,Deals 5 damage per second to the target.,
+139,Sharknado,Summons sharknados to fight for you,
+159,Sharpened,Right clicking on a placed Sharpening Station increases melee weapons armor penetration by 4,10
+11,Shine,Makes the player shine to see properly.,5
+35,Silenced,Prevents the player from using anything that requires mana.,
+137,Slime,Player drips blue goo and gains a blue tint.,
+130,Slime Mount,Mount,
+32,Slow,Slows down the player's speed.,
+170,Solar Blaze,"Solar shields generate over time protecting you, consume the shield power to dash, damaging enemies",
+171,Solar Blaze,"Solar shields generate over time protecting you, consume the shield power to dash, damaging enemies",
+172,Solar Blaze,"Solar shields generate over time protecting you, consume the shield power to dash, damaging enemies",
+122,Sonar,See the name of your catch while fishing,4
+9,Spelunker,Allows the player to see ores and chests more clearly.,5
+133,Spider,Summons an spider to fight for you,
+82,Squashling,Pet,
+158,Star in a Bottle,Gives improved mana regeneration to nearby players.,
+182,Stardust Cell,Summons a stardust cell to fight for you 'Cultivate the most beautiful cellular infection',
+188,Stardust Dragon,Summons a stardust dragon to fight for you.,
+187,Stardust Guardian,Summons a stardust guardian to fight for you,
+120,Stinky,Green fumes appear around you (cosmetic),
+156,Stoned,Prevents the player from moving or using anything and damages the player.,
+198,Striking Moment,Melee damage increased after blocking an enemy's attack,
+68,Suffocation,"Players lose life over time while buried in Sand, Slush, or Silt.",
+192,Sugar Rush,Not obtainable.,
+110,Summoning,+1 Minion capacity,6
+190,Suspicious Looking Eye,Light Pet,
+3,Swiftness,Increases the players speed by 25%.,4
+38,The Tongue,"Pulls the player, through tiles, directly in front of the Wall of Flesh",
+14,Thorns,Melee attackers take a small amount of damage upon harming the player.,2
+52,Tiki Spirit,Pet,
+25,Tipsy,"Inflicts -4 defense, grants +2% critical hit on melee attacks, +10% melee attack speed and damage.",2 or 4
+108,Titan,Increases knockback of all weapons,4
+131,Turtle Mount,Mount,
+134,Twins,Summons twins to fight for you,
+140,UFO,Summons a UFO to fight for you,
+141,UFO,Summons a UFO to fight for you,
+162,Unicorn Mount,Mount,
+70,Venom,"Players turn purple, lose life over time, and cannot regenerate life.",
+124,Warmth,Reduces damage from cold themed enemies.,25
+86,Water Candle,Whenever a player stands near a Water Candle that is placed (not in hand).,
+15,Water Walking,"Allows the player to walk on water, honey and lava. DOWN key allows the player to fall in liquids.",5
+33,Weak,Causes the player's Physical abilities to decrease. Werewolf buffnegates this debuff.,
+78,Weapon Imbue Confetti,Melee attacks cause bursts of confetti,20
+73,Weapon Imbue Cursed Flames,Melee attacks inflict Cursed Inferno debuff on enemies,20
+74,Weapon Imbue Fire,Melee attacks inflict On Fire! debuff on enemies,20
+75,Weapon Imbue Gold,Melee attacks inflict Midas debuff on enemies,20
+76,Weapon Imbue Ichor,Melee attacks inflict Ichor debuff on enemies,20
+77,Weapon Imbue Nanites,Melee attacks inflict Confused on enemies,20
+79,Weapon Imbue Poison,Melee attacks inflict Poisoned on enemies,20
+71,Weapon Imbue Venom,Melee attacks inflict Venom debuff on enemies,20
+149,Webbed,Causes the player to be stuck in the spot where they were hit. Players are still allowed to use items while this effect is ongoing.,
+26,Well Fed,"Consuming food items gives the player a few improvements such as damage, defense, swing rate, etc.",10-45
+28,Werewolf,"Gives improvements to physical abilities, as well as giving the player a cosmetic werewolf skin.",
+103,Wet,Player drips water.,
+57,Wisp,Light Pet,
+195,Withered Armor,Causes the player's defense to go down to half of its normal defense.,
+196,Withered Weapon,Reduces all player-inflicted damage by 50%.,
+117,Wrath,Increases weapon damage by 10%.,4
+127,Zephyr Fish,Pet,
