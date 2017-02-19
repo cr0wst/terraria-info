@@ -16,4 +16,4 @@ Currently I have all of the data in a Google Sheets workbook with references.  T
 I plan on implementing an API service for this information to help the Terraria community in creating bots, apps, and other services requiring the data.
 
 # Pull Requests
-Please submit a pull request with updates to the CSV files.  Once they are accepted, a process will convert them to JSON automatically.
+Please submit a pull request with updates to the CSV files.  Once they are accepted, I will run a script to convert them to JSON.  I'd like to automate the process at some point with continuous integration, but that probably won't happen until I get the API up.
