@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Blood Moon",
+        "hardmode": "false"
+    },
+    {
+        "id": "2",
+        "name": "Goblin Army",
+        "hardmode": "false"
+    },
+    {
+        "id": "3",
+        "name": "Rain",
+        "hardmode": "false"
+    },
+    {
+        "id": "4",
+        "name": "Slime Rain",
+        "hardmode": "false"
+    },
+    {
+        "id": "5",
+        "name": "Party",
+        "hardmode": "false"
+    },
+    {
+        "id": "6",
+        "name": "Sandstorm",
+        "hardmode": "false"
+    },
+    {
+        "id": "7",
+        "name": "Old One's Army",
+        "hardmode": "false"
+    },
+    {
+        "id": "8",
+        "name": "Frost Legion",
+        "hardmode": "true"
+    },
+    {
+        "id": "9",
+        "name": "Solar Eclipse",
+        "hardmode": "true"
+    },
+    {
+        "id": "10",
+        "name": "Pirate Invasion",
+        "hardmode": "true"
+    },
+    {
+        "id": "11",
+        "name": "Pumpkin Moon",
+        "hardmode": "true"
+    },
+    {
+        "id": "12",
+        "name": "Frost Moon",
+        "hardmode": "true"
+    },
+    {
+        "id": "13",
+        "name": "Martian Madness",
+        "hardmode": "true"
+    },
+    {
+        "id": "14",
+        "name": "Lunar Events",
+        "hardmode": "true"
+    }
+]
